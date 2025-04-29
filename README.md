@@ -120,7 +120,7 @@
 [「クラウドワークスのみんなでやってるアクセシビリティ」勉強会を実施しました！｜のま](https://note.com/haribom/n/n84ee876ec4de)  
 [クラウドワークスのアクセシビリティ啓蒙活動2023｜のま](https://note.com/haribom/n/n70ddd78d98e1)
 
-【**Notionタスク系】】  
+**【Notionタスク系】**
 [いろんなチームで積まれるタスクをNotion１ページで管理する方法｜のま](https://note.com/haribom/n/n607b2a4bd6ae)  
 [Notionホームのテンプレートを作成しました｜のま](https://note.com/haribom/n/n586b3d461254)  
 [NotionAIを活用し、自動生成単語帳テンプレートを作成しました｜のま](https://note.com/haribom/n/ne5b28c6b95bc)  
